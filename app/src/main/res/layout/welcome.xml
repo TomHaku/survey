@@ -78,7 +78,7 @@
         app:fontFamily="serif" />
 
     <CheckBox
-        android:id="@+id/checkBox"
+        android:id="@+id/checkBoxw"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="100dp"

@@ -32,6 +32,7 @@
         app:fontFamily="serif" />
 
     <RadioGroup
+        android:id="@+id/radioGroup_two"
         android:layout_width="match_parent"
         android:layout_height="300dp"
         android:layout_marginTop="30dp">

@@ -44,7 +44,7 @@
         android:layout_marginRight="30dp"
         android:background="#009688"
         android:onClick="onclick_buttonf"
-        android:text="FINISH" />
+        android:text="FINISH AND REPORT" />
 
     <!-- END    : Your code should be within this block -->
 

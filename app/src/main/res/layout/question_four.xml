@@ -31,8 +31,8 @@
         android:typeface="sans"
         app:fontFamily="serif" />
 
-    <RadioButton
-        android:id="@+id/radioButton_four_1"
+    <CheckBox
+        android:id="@+id/checkBox_four_1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="30dp"
@@ -44,8 +44,8 @@
         android:textSize="18sp"
         android:typeface="serif" />
 
-    <RadioButton
-        android:id="@+id/radioButton_four_2"
+    <CheckBox
+        android:id="@+id/checkBox_four_2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="30dp"
@@ -56,8 +56,8 @@
         android:textSize="18sp"
         android:typeface="serif" />
 
-    <RadioButton
-        android:id="@+id/radioButton_four_3"
+    <CheckBox
+        android:id="@+id/checkBox_four_3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="30dp"
@@ -68,8 +68,8 @@
         android:textSize="18sp"
         android:typeface="serif" />
 
-    <RadioButton
-        android:id="@+id/radioButton_four_4"
+    <CheckBox
+        android:id="@+id/checkBox_four_4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="30dp"
@@ -80,8 +80,8 @@
         android:textSize="18sp"
         android:typeface="serif" />
 
-    <RadioButton
-        android:id="@+id/radioButton_four_5"
+    <CheckBox
+        android:id="@+id/checkBox_four_5"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="30dp"
@@ -93,8 +93,8 @@
         android:textSize="18sp"
         android:typeface="serif" />
 
-    <RadioButton
-        android:id="@+id/radioButton_four_6"
+    <CheckBox
+        android:id="@+id/checkBox_four_6"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="30dp"
@@ -106,8 +106,8 @@
         android:textSize="18sp"
         android:typeface="serif" />
 
-    <RadioButton
-        android:id="@+id/radioButton_four_7"
+    <CheckBox
+        android:id="@+id/checkBox_four_7"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="30dp"
